@@ -1,0 +1,16 @@
+@font-face{
+    font-family: myFont;
+    src: url(../font/Starjedi.ttf);    
+}
+
+body{
+    font-family: myFont;
+    margin: 0;
+    background-image: url(../images/BackgroundRPG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    float: right;
+    color:yellow;
+}
